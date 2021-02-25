@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm [Durlav](https://durlavk98.github.io/portfolio/).
+
+I am a fullstack web developer with focus on nodejs and laravel. I love working on new projects but not quite finishing them😔.(JK..😃 I even have this readme intro, who does that😲.)
+
+🌱 I’m currently learning ...
+nodejs and react with ocassional interest on laravel and vue.
+
+👯 I’m looking to collaborate on ...
+Any fullstack project regardless of stack. Relatievely new to this field so any experience is worth something✨
+
+📫 How to reach me: ...
+[![Linkedin Badge](https://img.shields.io/badge/Used-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durlavk98/)  [![Twitter Badge](https://img.shields.io/badge/Used-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white](https://twitter.com/durlavk98)
 
 <!--
 **durlavk98/durlavk98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
