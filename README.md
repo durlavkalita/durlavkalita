@@ -9,7 +9,7 @@ nodejs and react with ocassional interest on laravel and vue.
 Any fullstack project regardless of stack. Relatievely new to this field so any experience is worth something✨
 
 📫 How to reach me: ...
-[![Linkedin Badge](https://img.shields.io/badge/Used-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durlavk98/)  [![Twitter Badge](https://img.shields.io/badge/Used-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white](https://twitter.com/durlavk98)]
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durlavk98/)  [![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/durlavk98)
 
 <!--
 **durlavk98/durlavk98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
