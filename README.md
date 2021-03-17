@@ -4,7 +4,7 @@ I am a fullstack web developer with focus on nodejs and laravel. I love working 
 
 ### 🔭 I’m currently working on ...
 
-learning [flutter](http://www.flutter.dev/)
+[flutter30](https://github.com/durlavk98/flutter30)
 
 ### 🌱 I’m currently learning ...
 
