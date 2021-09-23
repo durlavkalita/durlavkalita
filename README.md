@@ -1,22 +1,31 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm [Durlav](https://durlavk98.github.io/portfolio/).
 
-<br/>
+Engineer | Web developer | Chess enthusiatic
 
-I am a fullstack web developer with focus on nodejs and laravel. I also play chess and write articles/blogs. You can find me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durlavkalita) [![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/durlavk98) . You can follow my blog @ [durlavkalita.github.io](https://durlavkalita.github.io). 
 
-<!-- ### 🔭 I’m currently working on ...
+<!-- ##### 🔭 I’m currently working on ...
 
-[flutter30](https://github.com/durlavkalita/flutter30) -->
+Continuing [The Odin Project](https://www.theodinproject.com/) course and it's projects -->
 
-<!-- ### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 
-flutter with ocassional work on laravel and nodejs. -->
+Machine Learning with pytorch and tensorflow.
 
-<!-- ### 📫 How to reach me: ...
+<!-- ##### 👯 I’m looking to collaborate on ...
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durlavkalita)  
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/durlavk98) -->
+Any fullstack project regardless of stack. Relatievely new to this field so any experience is worth something✨ -->
 
-<!-- ### 📈 My GitHub Stats
+### 📫 How to reach me: ...
 
-[![Durlav's GitHub stats](https://github-readme-stats.vercel.app/api?username=durlavkalita)](https://github.com/durlavkalita/github-readme-stats) -->
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durlavkalita)  [![Twitter Badge](https://img.shields.io/badge/Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/durlavk98)
+
+### 📓 Blogs and Article:
+
+[![Linkedin Badge](https://img.shields.io/badge/Medium-black?style=flat-square&logo=Medium&logoColor=white)](https://durlavkalita.medium.com/) [![Linkedin Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=Github&logoColor=white)](https://durlavkalita.github.io) 
+
+### 📈 My GitHub Stats
+
+[![Durlav's GitHub stats](https://github-readme-stats.vercel.app/api?username=durlavkalita)](https://github.com/durlavkalita/github-readme-stats)
+
+<!--
+**durlavk98/durlavk98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
