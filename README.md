@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm [Durlav](https://durlavk98.github.io/portfolio/).
 
-Engineer | Web developer | Chess enthusiatic
+Engineer | Web developer | Chess enthusiast
 
 
 <!-- ##### 🔭 I’m currently working on ...
