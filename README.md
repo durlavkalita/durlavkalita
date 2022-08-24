@@ -3,7 +3,7 @@
 Engineer | Web developer | Chess enthusiast
 
 
-##### 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 
 [vue_blog](https://github.com/durlavkalita/vue_blog) - A blog using vuejs.
 
