@@ -3,13 +3,13 @@
 Engineer | Web developer | Chess enthusiast
 
 
-<!-- ##### 🔭 I’m currently working on ...
+##### 🔭 I’m currently working on ...
 
-Continuing [The Odin Project](https://www.theodinproject.com/) course and it's projects -->
+[vue_blog](https://github.com/durlavkalita/vue_blog) - A blog using vuejs.
 
 ### 🌱 I’m currently learning ...
 
-Machine Learning with pytorch and tensorflow.
+C/C++
 
 <!-- ##### 👯 I’m looking to collaborate on ...
 
