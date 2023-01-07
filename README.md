@@ -5,11 +5,11 @@ Engineer | Web developer | Chess enthusiast
 
 ### 🔭 I’m currently working on ...
 
-[vue_blog](https://github.com/durlavkalita/vue_blog) - A blog using vuejs.
+[odinbook](https://github.com/durlavkalita/odinbook) - A facebook clone from the odin project curriculum.
 
 ### 🌱 I’m currently learning ...
 
-C/C++
+typescript
 
 <!-- ##### 👯 I’m looking to collaborate on ...
 
