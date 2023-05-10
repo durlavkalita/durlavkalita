@@ -5,11 +5,11 @@ Engineer | Web developer | Chess enthusiast
 
 ### 🔭 I’m currently working on ...
 
-[odinbook](https://github.com/durlavkalita/odinbook) - A facebook clone from the odin project curriculum.
+[odinbook](https://github.com/durlavkalita/odinbook_react) - A facebook clone from the odin project curriculum.
 
 ### 🌱 I’m currently learning ...
 
-typescript
+flask
 
 <!-- ##### 👯 I’m looking to collaborate on ...
 
