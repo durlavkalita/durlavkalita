@@ -1,4 +1,4 @@
-Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm [Durlav](https://durlavk98.github.io/portfolio/).
+Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm [Durlav](https://durlavkalita.github.io/).
 
 Engineer | Web developer | Chess enthusiast
 
