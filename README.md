@@ -1,15 +1,15 @@
 Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm [Durlav](https://durlavkalita.github.io/).
 
-Engineer | Web developer | Chess enthusiast
+Full Stack Developer | AI/ML Enthusiast
 
 
 ### 🔭 I’m currently working on ...
 
-[odinbook](https://github.com/durlavkalita/odinbook_react) - A facebook clone from the odin project curriculum.
+[small-language-model](https://github.com/durlavkalita/slm-from-scratch) - Building a small language model from scratch.
 
 ### 🌱 I’m currently learning ...
 
-nextjs
+Deep learning concepts
 
 <!-- ##### 👯 I’m looking to collaborate on ...
 
@@ -23,11 +23,10 @@ Any fullstack project regardless of stack. Relatievely new to this field so any 
 
 [![Linkedin Badge](https://img.shields.io/badge/Medium-black?style=flat-square&logo=Medium&logoColor=white)](https://durlavkalita.medium.com/) [![Linkedin Badge](https://img.shields.io/badge/github-black?style=flat-square&logo=Github&logoColor=white)](https://durlavkalita.github.io) 
 
+<!--
 ### 📈 My GitHub Stats
 
 <p>
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=durlavkalita&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" />
 </p>
-
-<!--
-**durlavk98/durlavk98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
